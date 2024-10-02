@@ -1,21 +1,21 @@
 # Site settings
-title: Eventually
-email: youremailaddress@gmail.com
-description: A simple template for telling the world when you'll launch your next big thing. Brought to you by HTML5 UP.
-baseurl: "/eventually-jekyll-theme" # the subpath of your site, e.g. /blog
+title: Road to IPM
+email: roadtoipm@gmail.com
+description: Welcome to Road to IPM - Your One Stop Solution for getting into IPM IIM
+baseurl: "/home" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://www.instagram.com/roadtoipm/
+linkedin_url: https://in.linkedin.com/company/roadtoipm
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # Build settings
 markdown: kramdown
